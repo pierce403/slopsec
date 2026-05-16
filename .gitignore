@@ -1,0 +1,6 @@
+.DS_Store
+.slopsec.git/
+node_modules/
+dist/
+.cache/
+.env
