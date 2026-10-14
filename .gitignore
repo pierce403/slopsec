@@ -4,3 +4,7 @@ node_modules/
 dist/
 .cache/
 .env
+
+node_modules/
+dist/
+.wrangler/
